@@ -1,0 +1,145 @@
+body {
+    background-color: #E5E5E5;
+    font-family: 'Poppins', sans-serif;
+    }
+
+.btn-change-theme {
+    width: 80px;
+    margin: 0 auto 0 auto;
+    }
+
+.btn-top {
+    margin: 0 auto 0 auto;
+    padding: 0 0;
+    border: 5px;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    box-shadow: 0 5px 5px #db7878;
+    }
+
+.profile-info {
+    width: 631px;
+    height: 215px;
+    margin: 40px auto 40px auto;
+    padding: 0 0;
+}
+
+.profile-picture {
+    background-image: url(../img/profile-picture.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    float: left;
+    width: 215px;
+    height: 222px;
+}
+
+div.profile-description {
+    width: 372px;
+    margin: 38px 0 38px 0;
+    float: right;
+    display: inline-block;
+}
+
+span.name {
+    font-size: 36px;
+    color: #3D3D3D;
+    text-align: left;
+    vertical-align: text-top;
+}
+
+span.name2 {
+    font-size: 22px;
+    color: #3D3D3D;
+    text-align: left;
+    vertical-align: middle;
+}
+
+div.profile-facts {
+    width: 634px;
+    padding: 20px 2px 20px 2px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    text-align: center;
+}
+
+.profile-buttons {
+    width: 618px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.download { 
+    width: 290px;
+    height: 80px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    font-size: 22px;
+    background-color: #FBD144;
+    color: #3D3D3D;
+    border-radius: 10px;
+    line-height: 80px;
+    font-weight: 500;
+}
+.contact {
+    width: 290px;
+    height: 80px;
+    float: right;
+    text-align: center;
+    text-decoration: none;
+    font-size: 22px;
+    background-color: #FFFFFF;
+    color: #3D3D3D;
+    border-radius: 10px;
+    line-height: 80px;
+    font-weight: 500;
+}
+.tabsbtn {
+    max-width: 760px;
+    padding-left: 24px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+.button {
+    width: 350px;
+    height: 80px;
+    background-color: #D7D7D7;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 10px;
+    border: 0;
+}
+.skills {
+        width: 385px;
+        height: 80px;
+        background-color: #FFFFFF;
+        font-size: 22px;
+        font-weight: 700;
+        text-align: center;
+        border-radius: 10px;
+        border: 0;
+}
+.content {
+    max-width: 757px;
+    margin-top: 55px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.footer {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+    color: #575757;
+    border: 1px solid red;
+}
